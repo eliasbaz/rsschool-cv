@@ -1,3 +1,2 @@
 To my resume
-[https://eliasbaz.github.io/rsschool-cv/cv]
-(https://eliasbaz.github.io/rsschool-cv/cv)
+[ссылка](https://eliasbaz.github.io/rsschool-cv/cv)
