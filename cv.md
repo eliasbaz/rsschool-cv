@@ -1,12 +1,12 @@
 ## My name is Ilya Stepanov.
 
 >My contacts:
-### Phone number: +375 (29) 178-61-87 (A1)
-### Email: eliasbaz1254123@gmail.com
-### Linkedin: https://www.linkedin.com/in/ilya-stepanov-100199166
-### Telegram: @EliasStep
-### Skype: Ilya Stepanov
-### GitHub Pages: eliasbaz.github.io
+##### Phone number: +375 (29) 178-61-87 (A1)
+##### Email: eliasbaz1254123@gmail.com
+##### Linkedin: https://www.linkedin.com/in/ilya-stepanov-100199166
+##### Telegram: @EliasStep
+##### Skype: Ilya Stepanov
+##### GitHub Pages: eliasbaz.github.io
 
 > At the moment, I am working as an engineer at a design institute. After more than a year of work I realize that this is not mine at all, that there is no growth, no development, I do not enjoy the work process. That's why I want to change my current profession and connect my life with IT, especially I want to do Front End Development.
 
